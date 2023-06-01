@@ -122,20 +122,7 @@ display: flex;
   text-align: center;
 }
 
-
-/*h1 {
-    color:red;
-    background-color:grey;
-    font-family: 'arial','helvetica';
-    font-size: 40px;
-    margin: 20px;
-  }
-  
-  p {
-    color:yellow;
-    background-color: brown;
-    font-family: 'helvetica','arial';
-    font-size: 20px;
-    margin: 40px;
-  }*/
+.about-image{
+  height: 150px;
+}
   
